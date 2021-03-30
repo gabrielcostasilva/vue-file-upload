@@ -1,9 +1,9 @@
 # Vue File Upload
 This project exemplifies the file upload feature with Vue.
 
-Please note that the main branch does not implement any Vue feature. The ideia is that we start from the very basic to more elaborated implementations.
+This project is not based in any particular tutorial, but the Spring Boot app is based on [Escuela Technologies' YouTube video](https://www.youtube.com/watch?v=tW390W7M6TM).
 
-This branch is not based in any particular tutorial, but the Spring Boot app is based on [Escuela Technologies' YouTube video](https://www.youtube.com/watch?v=tW390W7M6TM).
+**This branch** introduces the Vue feature for uploading the file. In addition, the Spring Boot app adds CORS configuration, necessary for enabling the request from the Vue app.
 
 ## Project Overview
 
@@ -11,6 +11,6 @@ This project consists of a Java + Spring Boot app that receives a file upload re
 
 ## Further references
 
-vue: https://www.youtube.com/watch?v=VqnJwh6E9ak
+Vue upload: https://www.youtube.com/watch?v=VqnJwh6E9ak
 
-fetch: https://sharklabs.com.br/file-upload-com-vuejs-e-nodejs/
+Using fetch: https://sharklabs.com.br/file-upload-com-vuejs-e-nodejs/
